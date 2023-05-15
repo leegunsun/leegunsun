@@ -1,10 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&text=Welcome!&height=330)
 
 <p align="center">
-### 👋 Hi, WoW, Hi 👋
-  Node.js Backend Developer
-  I'm growing every day
+<strong>👋 Hi, WoW, Hi 👋</strong>
 </p>
+
+<br>
+
+<p align="center">
+<strong>Node.js Backend Developer</strong>
+</p>
+
+<p align="center">
+<strong>I'm growing every day</strong>
+</p>
+
 
 
 ### 🤿 Languages and Tools
