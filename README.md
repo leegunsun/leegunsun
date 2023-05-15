@@ -63,4 +63,4 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carlito&weight=700&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Every+wall+is+a+door)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carlito&weight=700&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Every+wall+is+a+door&background=fad0c4)](https://git.io/typing-svg)
