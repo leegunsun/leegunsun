@@ -62,5 +62,3 @@
 </p>
 
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leegunsun&bg_color=30,fad0c4,ffd1ff&text_color=000&show_icons=true&icon_color=000)](https://github.com/ashutosh00710/github-readme-activity-graph)
