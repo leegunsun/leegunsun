@@ -4,11 +4,10 @@
 <strong>👋 Hi, WoW, Hi 👋</strong>
 </p>
 
-<br>
 
 <p align="center">
-<strong>Node.js Backend Developer</strong><br>
-<strong>I'm growing every day</strong>
+<strong>I'm growing every day</strong><br>
+<strong>Node.js Backend Developer</strong>
 </p>
 
 
