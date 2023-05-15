@@ -61,11 +61,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&show_icons=true&icon_color=000" width="100%" />
 </p>
 
-  
-  <img height="190em" src="https://github-readme-activity-graph.cyclic.app/graph?username=leegunsun" width="100%" />
-</p>
-
-
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leegunsun)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=leegunsun&bg_color=30,fad0c4,ffd1ff&text_color=000&show_icons=true&icon_color=000)](https://github.com/ashutosh00710/github-readme-activity-graph)
