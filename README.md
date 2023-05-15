@@ -58,8 +58,9 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" style="width: 100%; max-width: 800px; height: auto;" />
 </p>
+
 
 </div>
 
