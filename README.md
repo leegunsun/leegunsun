@@ -7,9 +7,7 @@
 <br>
 
 <p align="center">
-<strong>Node.js Backend Developer</strong>
-</p>
-<p align="center">
+<strong>Node.js Backend Developer</strong><br>
 <strong>I'm growing every day</strong>
 </p>
 
