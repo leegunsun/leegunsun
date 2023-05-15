@@ -3,7 +3,7 @@
 
 hi
 ### 🤿 Languages and Tools
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=F7DF1E"/>
 # 
 
 ### 테스트2
