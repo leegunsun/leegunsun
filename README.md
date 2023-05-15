@@ -49,6 +49,7 @@
 <br>
 
 - AWS Cloud Infrastructure
+- Next.js
 - Flutter
 - IOS
 - Android
