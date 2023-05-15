@@ -1,9 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&text=Welcome!&height=330)
 
-<p align="center">
+<h3 align="center">
 <strong>👋 Hi, WoW, Hi 👋</strong>
-</p>
+</h3>
 
+<br>
 
 <p align="center">
 <strong>I'm growing every day</strong><br>
