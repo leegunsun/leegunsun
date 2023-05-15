@@ -60,7 +60,12 @@
 <p align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&show_icons=true&icon_color=000" width="100%" />
 </p>
+  
+  
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" />
+</p>
+
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Carlito&weight=700&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Every+wall+is+a+door&background=fad0c4)](https://git.io/typing-svg)
