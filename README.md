@@ -37,9 +37,13 @@
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&line_height=21&show_icons=true&icon_color=000)](https://github.com/anuraghazra/github-readme-stats)
-<img width="30">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&line_height=21&show_icons=true&icon_color=000" />
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" />
+</p>
 
 </div>
 
