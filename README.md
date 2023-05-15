@@ -42,6 +42,7 @@
 
 ### 👀 Interest
 
+- AWS Cloud Infrastructure
 - Flutter
 - IOS
 - Android
