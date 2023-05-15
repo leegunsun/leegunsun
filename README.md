@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff&text=Welcome!&height=330)
 
 
-hiyyt
+
 ### 🤿 Languages and Tools
 <br>
 <p align="center">
@@ -38,6 +38,7 @@ hiyyt
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&line_height=21&show_icons=true&icon_color=000)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true)
 
 </div>
