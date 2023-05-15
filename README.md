@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/vim-1AB7EA?style=for-the-badge&logo=vim&logoColor=white">
+  <img src="https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=white">
   <img src="https://img.shields.io/badge/VISUAL STUDIO CODE-007ACC?style=for-the-badge&logo=VISUAL STUDIO CODE&logoColor=white">
 </p>
 <br>
