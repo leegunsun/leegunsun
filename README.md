@@ -32,17 +32,7 @@ hiyyt
 ### 테스트2
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=gruvbox)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=highcontrast)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=dracula)
+
 
 #
