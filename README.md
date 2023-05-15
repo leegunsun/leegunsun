@@ -5,7 +5,7 @@
 </h3>
 
 
-<p align="center" style="margin-top: 40px;">
+<p align="center" style="margin-top: 400px;">
 <strong>I'm growing every day</strong><br>
 <strong>Node.js Backend Developer</strong>
 </p>
