@@ -4,9 +4,8 @@
 <strong>👋 Hi, WoW, Hi 👋</strong>
 </h3>
 
-<br>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
 <strong>I'm growing every day</strong><br>
 <strong>Node.js Backend Developer</strong>
 </p>
