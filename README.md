@@ -30,5 +30,5 @@ hiyyt
 # 
 
 ### 테스트2
-테스트2
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun)](https://github.com/anuraghazra/github-readme-stats)
 #
