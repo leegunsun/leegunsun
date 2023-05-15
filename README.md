@@ -38,9 +38,9 @@ hiyyt
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&line_height=21&show_icons=true&icon_color=000)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
+
+  <img align="center" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&line_height=21&show_icons=true&icon_color=000)](https://github.com/anuraghazra/github-readme-stats)" />
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
