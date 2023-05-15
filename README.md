@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" style="width: 30%;" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leegunsun&layout=compact&theme=white&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&show_icons=true" style="width: 50%;" />
 </p>
 
 
