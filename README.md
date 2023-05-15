@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ffd1ff)
 # leegunsun
 
 hi
