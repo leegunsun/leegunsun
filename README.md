@@ -54,7 +54,7 @@
 <div align="center">
 
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&show_icons=true&icon_color=000" width="100%" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=leegunsun&bg_color=30,fad0c4,ffd1ff&title_color=000&text_color=000&hide_title=true&show_icons=true&icon_color=000" width="100%" />
 </p>
 
 <p align="center">
