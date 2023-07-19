@@ -8,7 +8,6 @@
 
 <p align="center">
 <strong>I'm growing every day</strong><br>
-<strong>Node.js Backend Developer</strong>
 </p>
 
 <br>
@@ -16,6 +15,7 @@
 ### 🤿 Languages and Tools
 <br>
 <p align="center">
+  <img src="https://img.shields.io/badge/Dart-#0175C2?style=for-the-badge&logo=Dart&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
