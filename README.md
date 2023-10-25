@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-<strong>I'm growing every day</strong><br>
+<strong><img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">Flutter developer</strong><br>
 </p>
 
 <br>
