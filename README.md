@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-<strong>Flutter developer</strong><br>
+<strong>Flutter & Spring Boot developer</strong><br>
 </p>
 
 <br>
@@ -51,7 +51,7 @@
 <br>
 
 - AWS Cloud Infrastructure
-- Next.js
+- Spring Boot
 - Flutter
 - IOS
 - Android
